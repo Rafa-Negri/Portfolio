@@ -1,6 +1,7 @@
 		@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
     	@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
-    	*{
+    	
+        *{
     		margin:0px;
     		padding:0px;
     		box-sizing: border-box;
